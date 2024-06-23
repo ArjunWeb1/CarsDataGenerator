@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mustang",
+        "Model": "1969",
+        "Price": "Rs. 229,886.25",
+        "Speed": "160 km/h",
+        "imageUrl": "https://th.bing.com/th/id/OIP.hvGcMesvtSTGtERXLed94wHaE6?w=276&h=183&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "name": "Mercedes",
+        "Model": "2005",
+        "Price": "Rs. 5,044,087.19",
+        "Speed": "180 km/h",
+        "imageUrl": "https://s1.cdn.autoevolution.com/images/news/low-mile-2005-mercedes-benz-c-55-amg-might-turn-out-a-great-supercharger-sleeper-163723_1.jpg"
+    },
+    {
+        "name": "BMW",
+        "Model": "2005",
+        "Price": "Rs. 229,886.25",
+        "Speed": "260 km/h",
+        "imageUrl": "https://example.com/bmw.jpg"
+    },
+    {
+        "name": "Rolls Royce",
+        "Model": "2023",
+        "Price": "Rs. 54,336,750.00",
+        "Speed": "155 km/h",
+        "imageUrl": "https://example.com/rollsroyce.jpg"
+    }
+]
